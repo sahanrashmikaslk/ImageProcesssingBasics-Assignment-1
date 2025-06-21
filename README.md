@@ -41,14 +41,6 @@ jupyter notebook ImageProcessing_Assignment1.ipynb
 3. **Use your own image**
    Copy a file (e.g. `myphoto.jpg`) into `images/` and change the `img_path` line in the first code cell.
 
-### Command-line script (optional)
-
-If you prefer plain Python instead of Jupyter, a fully equivalent script is provided at
-`ImageProcessing_Assignment1.ipynb`. Run:
-
-```bash
-python notebooks/ImageProcessing_Assignment1.py --image images/myphoto.jpg
-```
 
 The script saves results into the `results/` folder and shows previews in pop-up windows.
 
