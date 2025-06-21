@@ -10,16 +10,6 @@ venv/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Results/output images
-# results/*.png
-
-# # OS files
-# .DS_Store
-# Thumbs.db
-
-# # VSCode settings (if using VSCode)
-# .vscode/
-
 # Environment config
 .env
 .venv
