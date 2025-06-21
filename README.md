@@ -55,21 +55,3 @@ The script saves results into the `results/` folder and shows previews in pop-up
 
 ---
 
-## 2. `notebooks/ImageProcessing_Assignment1.ipynb`
-
-> **Tip:** GitHub renders notebooks automatically.  
-> If you’re copying through the web editor, create a new file, paste the **entire JSON** below, and save with the `.ipynb` extension.  
-> (You can also download this chat as raw text, extract the block, and save.)
-
-
-
-### How to commit
-
-1. **Create the folders** in your local repo (or GitHub “Add file → Create new file”).
-2. Paste the contents shown above into the correct paths.
-3. `git add . && git commit -m "Assignment 1 solution"`
-4. Push to GitHub.
-
-That’s it!
-Open the notebook in GitHub to verify it renders; open locally to run.
-Let me know if you need any tweaks or if the JSON paste is too big to handle.
