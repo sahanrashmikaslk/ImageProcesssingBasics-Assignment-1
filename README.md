@@ -19,7 +19,7 @@ This repository contains a complete Python solution (code + explanations) for th
 .
 ├── README.md
 ├── ImageProcessing_Assignment1.ipynb
-├── images          ← input Sample image
+├── sample_image          ← input Sample image
 └── results         ← output images
 
 ````
@@ -39,7 +39,7 @@ jupyter notebook ImageProcessing_Assignment1.ipynb
 ```
 
 3. **Use your own image**
-   Copy a file (e.g. `myphoto.jpg`) into `images/` and change the `img_path` line in the first code cell.
+   Copy a file (e.g. `myphoto.jpg`) into `sample_image/` and change the `img_path` line in the first code cell.
 
 
-4. The script saves results into the `results/` folder and shows previews in pop-up windows.
+4. The script saves results into the `results/` folder.
