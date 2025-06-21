@@ -43,8 +43,3 @@ jupyter notebook ImageProcessing_Assignment1.ipynb
 
 
 The script saves results into the `results/` folder and shows previews in pop-up windows.
-
-````
-
----
-
