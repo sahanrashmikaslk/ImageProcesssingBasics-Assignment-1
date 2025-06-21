@@ -1,5 +1,7 @@
 # EC7212 – Computer Vision and Image Processing  
 ## Assignment 1 (Take-Home)
+### Reg. no: EG/2020/4047
+### Name: Lelwala LGSR
 
 This repository contains a complete Python solution (code + explanations) for the four tasks in Assignment 1:
 
@@ -16,10 +18,9 @@ This repository contains a complete Python solution (code + explanations) for th
 
 .
 ├── README.md
-├── notebooks
-│   └── ImageProcessing\_Assignment1.ipynb   ← main Jupyter Notebook
-├── images          ← put any input images here
-└── results         ← output images are written here automatically
+├── ImageProcessing_Assignment1.ipynb
+├── images          ← input Sample image
+└── results         ← output images
 
 ````
 
@@ -34,7 +35,7 @@ pip install numpy opencv-python matplotlib
 2. **Run the notebook**
 
 ```bash
-jupyter notebook notebooks/ImageProcessing_Assignment1.ipynb
+jupyter notebook ImageProcessing_Assignment1.ipynb
 ```
 
 3. **Use your own image**
@@ -43,7 +44,7 @@ jupyter notebook notebooks/ImageProcessing_Assignment1.ipynb
 ### Command-line script (optional)
 
 If you prefer plain Python instead of Jupyter, a fully equivalent script is provided at
-`notebooks/ImageProcessing_Assignment1.py`. Run:
+`ImageProcessing_Assignment1.ipynb`. Run:
 
 ```bash
 python notebooks/ImageProcessing_Assignment1.py --image images/myphoto.jpg
